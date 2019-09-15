@@ -1,0 +1,252 @@
+﻿<html>
+<head>
+<title>Welcome to Fuzheng Zhang's Homepage</title>
+
+</head>
+
+<body>
+<div class="content">
+    <div id="container">
+
+    <table>
+    <tbody><tr>
+    <td><img id="myPicture" src="images/profile.png" style="float:left; padding-right:20px" height="200px"></td>
+    <td>
+    <div id="DocInfo">
+        <h1>Hongwei Wang <img src="images/name.png" height="50px"></h1>
+        Postdoctoral Researcher<br>
+        Computer Science Department, Stanford University<br>
+        Office: Room 414, William Gates Building<br>
+        Email: hongweiw@cs.stanford.edu<br>
+        <a href="files/HongweiWang_CV.pdf">CV</a> &bull; <a href="https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en">Google Scholar</a> &bull; <a href="https://github.com/hwwang55">GitHub</a> &bull; <a href="https://www.linkedin.com/in/hongwei-wang-730a7b72/">LinkedIn</a> &bull; <a href="https://www.zhihu.com/people/hwwang55/answers">Zhihu</a><br>
+    </div><br>
+    <!--
+    <div id="stanford_logo">
+        <a href="http://www.stanford.edu"><img src="images/stanford.png" height="170px" /></a>
+    </div>
+    -->
+    </td>
+    </tr>
+    </tbody></table>
+    <br>
+
+
+    <h2>Bio</h2>
+    <ul>
+        <li>Hongwei Wang is now a postdoctoral researcher in <a href="https://cs.stanford.edu">Computer Science Department, Stanford University</a>.
+            His research interests include machine learning and data mining, particularly in graph representation learning mechanisms, algorithms and their applications in real-world data mining scenarios such as recommender systems, knowledge graphs, social networks, and sentiment analysis.</li>
+        <li>Hongwei Wang received Ph.D. degree from <a href="http://www.cs.sjtu.edu.cn">Department of Computer Science and Engineering, Shanghai Jiao Tong University</a> in 2018, and B.E. degree from <a href="https://acm.sjtu.edu.cn/home">ACM Class, Shanghai Jiao Tong University</a> in 2014.
+            He was an intern at <a href="https://www.msra.cn/">Microsoft Research Asia</a> and <a href="https://about.meituan.com/">Meituan-Dianping Group</a>.
+            He was one of the recipients of <a href="https://ai.googleblog.com/2018/11/highlights-from-2018-google-phd.html">2018 Google PhD Fellowship</a>.</li>
+    </ul>
+
+
+    <h2>News</h2>
+    <ul>
+        <li>[06/28/2019] I give a talk "Knowledge-graph-aware Recommender Systems" at JD.COM Silicon Valley Research Center.</li>
+        <li>[04/29/2019] One paper is accepted by KDD 2019: "Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems".
+        <li>[04/03/2019] I am mentoring <a href="http://web.stanford.edu/class/cs341/">CS341: Project in Mining Massive Data Sets</a>.
+        <!--
+        <li><b>[12/08/2018]</b> I win <a href="https://ai.googleblog.com/2018/11/highlights-from-2018-google-phd.html">2018 Google PhD Fellowship</a>.</li>
+        <li>[01/31/2019] Two papers are accepted by WWW 2019: <i>Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation</i> and <i>Knowledge Graph Convolutional Networks for Recommender Systems</i>.
+        <li>[11/11/2018] I passed my PhD thesis defense!</li>
+        -->
+    </ul>
+
+
+    <h2>Selected Publications</h2>
+    <!--(Looking for full publication list? See my <a href="files/HongweiWang_CV.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en">Google Scholar</a>.)-->
+
+    <h5>2019</h5>
+
+    <div class="publication media">
+        <img src="images/2019-KDD.png" class="papericon">
+        <div class="media-body">
+            <b>Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems.</b><br>
+            <u>Hongwei Wang</u>, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang.<br>
+            <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.</i><br>
+            [Paper]
+            [<a href="http://arxiv.org/abs/1905.04413">arXiv</a>]
+            [<a href="https://github.com/hwwang55/KGNN-LS">Code</a>]
+        </div>
+    </div>
+    <!--
+    <div class="publication media">
+        <img src="images/2019-TOIS.png" class="papericon">
+        <div class="media-body">
+            <b>Exploring High-Order User Preference on the Knowledge Graph for Recommender Systems.</b><br>
+            <u>Hongwei Wang</u>, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo.<br>
+            <i>ACM Transactions on Information Systems (TOIS), 2019.</i><br>
+            [<a href="https://dl.acm.org/citation.cfm?id=3312738">Paper</a>]
+        </div>
+    </div>
+
+    <div class="publication media">
+        <img src="images/2019-WWWa.png" class="papericon">
+        <div class="media-body">
+            <b>Knowledge Graph Convolutional Networks for Recommender Systems.</b><br>
+            <u>Hongwei Wang</u>, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo.<br>
+            <i>The Web Conference (WWW), 2019.</i><br>
+            [Paper]
+            [<a href="https://arxiv.org/abs/1904.12575">arXiv</a>]
+            [<a href="https://github.com/hwwang55/KGCN">Code</a>]
+        </div>
+    </div>
+    -->
+
+    <div class="publication media"> 
+        <img src="images/2019-WWW.png" class="papericon">
+        <div class="media-body">
+            <b>Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.</b><br>
+            <u>Hongwei Wang</u>, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo.<br>
+            <i>The Web Conference (WWW), 2019.</i><br>
+            [<a href="https://dl.acm.org/citation.cfm?id=3313411">Paper</a>]
+            [<a href="https://arxiv.org/abs/1901.08907">arXiv</a>]
+            [<a href="https://github.com/hwwang55/MKR">Code</a>]
+       </div>   
+    </div>
+
+    <h5>2018</h5>
+
+    <div class="publication media">
+        <img src="images/2018-CIKM.png" class="papericon">
+        <div class="media-body">
+            <b>RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems.</b><br>
+            <u>Hongwei Wang</u>, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo.<br>
+            <i>ACM Conference on Information and Knowledge Management (CIKM), 2018.</i><br>
+            [<a href="https://dl.acm.org/citation.cfm?id=3271739">Paper</a>]
+            [<a href="https://arxiv.org/abs/1803.03467">arXiv</a>]
+            [<a href="https://github.com/hwwang55/RippleNet">Code</a>]
+       </div>
+    </div>
+
+    <div class="publication media">
+        <img src="images/2018-WWW.png" class="papericon">
+        <div class="media-body">
+            <b>DKN: Deep Knowledge-Aware Network for News Recommendation.</b><br>
+            <u>Hongwei Wang</u>, Fuzheng Zhang, Xing Xie, Minyi Guo.<br>
+            <i>The Web Conference (WWW), 2018.</i><br>
+            [<a href="https://dl.acm.org/citation.cfm?id=3186175">Paper</a>]
+            [<a href="https://arxiv.org/abs/1801.08284">arXiv</a>]
+            [<a href="https://github.com/hwwang55/DKN">Code</a>]
+       </div>
+    </div>
+
+    <div class="publication media">
+        <img src="images/2018-AAAI.png" class="papericon">
+        <div class="media-body">
+            <b>GraphGAN: Graph Representation Learning with Generative Adversarial Nets.</b><br>
+            <u>Hongwei Wang</u>, Jia Wang, Jialin Wang, Weinan Zhang, Miao Zhao, Fuzheng Zhang, Xing Xie, Minyi Guo.<br>
+            <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i><br>
+            [<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611">Paper</a>]
+            [<a href="https://arxiv.org/abs/1711.08267">arXiv</a>]
+            [<a href="https://github.com/hwwang55/GraphGAN">Code</a>]
+       </div>
+    </div>
+
+    <div class="publication media">
+        <img src="images/2018-WSDM.png" class="papericon">
+        <div class="media-body">
+            <b>SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction.</b><br>
+            <u>Hongwei Wang</u>, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.<br>
+            <i>ACM Conference on Web Search and Data Mining (WSDM), 2018.</i><br>
+            [<a href="https://dl.acm.org/citation.cfm?id=3159666">Paper</a>]
+            [<a href="https://arxiv.org/abs/1712.00732">arXiv</a>]
+       </div>
+    </div>
+
+    <h5>2017</h5>
+
+    <div class="publication media">
+        <img src="images/2017-CIKM.png" class="papericon">
+        <div class="media-body">
+            <b>Joint Topic-Semantic-aware Social Recommendation for Online Voting.</b><br>
+            <u>Hongwei Wang</u>, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo.<br>
+            <i>ACM Conference on Information and Knowledge Management (CIKM), 2017.</i><br>
+            [<a href="https://dl.acm.org/citation.cfm?id=3132889">Paper</a>]
+            [<a href="https://arxiv.org/abs/1712.00731">arXiv</a>]
+            [<a href="https://github.com/hwwang55/JTS-MF">Code</a>]
+       </div>
+    </div>
+
+
+    <h2>Honors</h2>
+        <ul>
+            <li><b>Google Ph.D. Fellowship</b> (6 in East Asia, 57 in total), 2018.</li>
+            <li><b>National Scholarship</b> (ranking: 1st/~200), 2018.</li>
+            <li><b>Tang Lixin Scholarship</b>, 2018.</li>
+            <li><b>The 5th place in RecsysChallenge</b>, 2017.</li>
+            <li><b>Outstanding Doctoral Freshman Scholarship</b>, 2014.</li>
+            <li><b>Shanghai Jiao Tong University Outstanding Undergraduate</b>, 2014.</li>
+            <li><b>The 1st prize of National Senior High School Mathematics Contest</b>, 2009.</li>
+            <!--
+            <li>Overseas Alumni Doctoral Students Scholarship (top 5%), 2017.</li>
+            <li>Arawana Scholarship (top 5%), 2013.</li>
+            <li>Tung OOCL Scholarship (top 5%), 2012.</li>
+            <li>National Encouragement Scholarship (top 10%), 2011.</li>
+            -->
+        </ul>
+
+
+    <h2>Media Coverage</h2>
+    <ul>
+        <li><a href="https://mp.weixin.qq.com/s/UYCL-iCUAKgyikl4CW8TiA">MSRA News</a>: Hongwei: "MSRA is the best place for CS PhD in China".</li>
+        <li><a href="https://mp.weixin.qq.com/s/1sqj0aA_pdwuf5HcUbeWDw">MSRA News</a>: Introduction to the six papers accepted by WWW 2019.</li>
+        <li><a href="https://mp.weixin.qq.com/s/9hHDIrm32iPrX7xEHP_AKg">Fudan Knowledge Workshop</a>: Network representation learning based recommender systems.</li>
+        <li><a href="https://news.sjtu.edu.cn/zhxw/20181206/91565.html">SJTU News</a>, <a href="http://www.cs.sjtu.edu.cn/NewsDetail.aspx?id=376">SJTU CS News</a>: CS PhD candidate Hongwei Wang won 2018 Google PhD Fellowship.</li>
+        <li><a href="http://www.sohu.com/a/278993289_473283">Sohu News</a>: Recipients of 2018 Google PhD Fellowship Announced.</li>
+        <li><a href="https://mp.weixin.qq.com/s/CLUlcnJAMDMH5zypPPb-lw">AI Finance</a>: No. 5 Dan Ling Street.</li>
+        <li><a href="https://www.msra.cn/zh-cn/news/features/embedding-knowledge-graph-in-recommendation-system-i">MSRA News</a>: Knowledge graph enhanced recommender systems.</li>
+        <li><a href="https://www.msra.cn/zh-cn/news/features/embedding-knowledge-graph-in-recommendation-system-ii">MSRA News</a>: How to apply knowledge graph to recommender systems?</li>
+        <li><a href="https://mp.weixin.qq.com/s/XawVd4psYlDWmpUfW0CYeA">PaperWeekly</a>: GAN in network representation learning.</li>
+    </ul>
+
+
+    <h2>Invited Talks</h2>
+    <ul>
+        <li><b>Knowledge-graph-aware Recommender Systems</b>, at <i>JD.COM Silicon Valley Research Center</i>, June 2019, Mountain View.</li>
+        <li><b>When Recommender System Meets Network Representation Learning</b>, at <i>ACM Class Student Academic Festival</i>, June 2018, Shanghai.</li>
+        <li><b>Graph Representation Learning and GraphGAN</b>, at <i>PaperWeekly online talking</i>, January 2018, Beijing.</li>
+        <!--
+        <li>Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation, at WWW'19, May 2019, San Francisco.</li>
+        <li>RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems, at CIKM'18, October 2018, Turin.</li>
+        <li>DKN: Deep Knowledge-Aware Network for News Recommendation, at WWW'18, April 2018, Lyon.</li>
+        <li>GraphGAN: Graph Representation Learning with Generative Adversarial Nets, at AAAI'18, February 2018, New Orleans.</li>
+        <li>Joint Topic-Semantic-aware Social Recommendation for Online Voting, at CIKM'17, November 2017, Singapore.</li>
+        <li>MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing, at ICDCS'17, June 2017, Atlanta.</li>
+        -->
+    </ul>
+
+
+    <h2>Professional Activities</h2>
+    <ul>
+        <li><b>Mentor</b> for Stanford CS341 (Project in Mining Massive Data Sets), Stanford CURIS (Undergraduate Research Internship in Computer Science).</li>
+        <li><b>Teaching assistant</b> for SJTU CS377 (Project Workshop of Database System).</li>
+        <li><b>Program committee member</b> for AAAI (2020).</li>
+        <li><b>Conference reviewer</b> for WWW (2017, 2018, 2019), KDD (2017, 2018), AAAI (2018, 2019), IJCAI (2018, 2019), CIKM (2017, 2018), DASFAA (2018), SIGIR (2018), MM (2018).</li>
+        <li><b>Journal reviewer</b> for IEEE TNNLS, IEEE TKDE, IEEE Access, ACM TIST, ACM TWEB, Elsevier OSNEM, Elsevier Information Sciences.</li>
+        <li><b>Research assistant</b> at Hong Kong Polytechnic University.</li>
+        <li><b>Intern</b> at Microsoft Research Asia and Meituan-Dianping Group.</li>
+    </ul>
+
+
+    <h2>Misc.</h2>
+    <ul>
+        <li>I am a cinephile.
+            Some of my favorite directors are Ang Lee, Quentin Tarantino, Stanley Kubrick, Alfred Hitchcock, and Steven Spielberg.
+            I also like writing reviews.
+        <li>I am a fan of Chinese classical poetry.
+            I used to write one when I was in the first year of PhD, after my mom saw me off at the station:<br>
+            <center><img src="images/poem.png" height="70px"></center>
+            <!--
+            銆婁竴鍓路绂讳埂鍋朵功銆�<br>
+            灏忔ゼ涓€澶滈闆ㄩ锛屾櫒璧峰緛閾庯紝鏈秷娈嬮厭銆備复鍒厛姣嶅鍙挍锛岄瑩鍙戝井闇滐紝娆茶杩樹紤銆�<br>
+            鍎胯鍗冮噷姣嶆媴蹇э紝闆ㄦ箍杞︾獥锛屾唱闇戣。琚栥€傛儕璧峰洖鏈涙晠涔″锛屽彧鏈夊啲澶忥紝鍐嶆棤鏄ョ銆�</li>
+            -->
+    </ul>
+
+</div>
+    <a href='https://clustrmaps.com/site/1aoh9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=yeLPPTIbUVG33djmovezgv2JyeaMEEzcnvQN3Qmp25w&co=2d78ad&ct=ffffff'/></a>
+</div>
+</body>
+</html>
