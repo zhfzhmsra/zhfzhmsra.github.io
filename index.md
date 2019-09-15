@@ -16,7 +16,7 @@
 
 <body>
 <div id="header">
-    <div id="MyName" style="font-family: Cursive; font-style: italic">Fuzheng Zhang(张富峥)</div>
+    <div id="MyName" style="font-family: Cursive; font-style: italic">Fuzheng Zhang</div>
     <p id="intro" style="font-family: Cursive"> Ph.D. Candidate supervised by Prof. <a href="http://research.microsoft.com/en-us/people/xingx/">Xing Xie</a></p>
 	<ul id="main-menu">
         <li style="font-family: Cursive; font-style: italic; color: white"><a href="http://home.ustc.edu.cn/~zhfzh/CV%20(Fuzheng%20Zhang).pdf"><b>CV</b></a></li>
